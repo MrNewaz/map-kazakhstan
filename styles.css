@@ -1,0 +1,7 @@
+path:hover {
+  fill: rgb(222, 255, 6);
+}
+
+path {
+  transition: all 200ms ease-in-out;
+}
